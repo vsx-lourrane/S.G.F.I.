@@ -24,7 +24,8 @@ O terceiro passo é ativar as dependências por meio :
 -python manage.py migrate
 -python manage.py runserver
 Implementações:
-Cadastro de produtos, clientes, empresas, fornecedores e transportadoras
+Cadastro de usuarios, fornecedores e contas a pagar e receber
+
 Login/Logout
 Definição de permissões para usuários.
 Portanto, também foi adicionado recursos existentes na propria framework como formulários, autenticação de usuários, sistema criptografado de segurança, sistema de administrador e suas respectivas configurações.
